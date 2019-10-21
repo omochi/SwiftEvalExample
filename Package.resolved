@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftEval",
+        "repositoryURL": "https://github.com/omochi/SwiftEval",
+        "state": {
+          "branch": "master",
+          "revision": "5d8d997dd4250c70058c18e48bb431ab71454b55",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}

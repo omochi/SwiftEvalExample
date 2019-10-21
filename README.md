@@ -1,3 +1,7 @@
 # SwiftEvalExample
 
-A description of this package.
+## Try it
+
+```
+$ swift run
+```

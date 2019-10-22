@@ -5,8 +5,8 @@
         "package": "SwiftEval",
         "repositoryURL": "https://github.com/omochi/SwiftEval",
         "state": {
-          "branch": "master",
-          "revision": "08b9df4656a743be48f3f1ba1f985f82e87d5bd6",
+          "branch": "dev",
+          "revision": "9fbc631eb4b66760d630aa0c40354efa48279409",
           "version": null
         }
       }
